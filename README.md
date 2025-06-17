@@ -34,7 +34,7 @@ This project classifies document images into one of 16 categories using Convolut
 
 ## Approach
 
-- In addition to a holistic deep CNN, trained region-based deep CNNs for a section of the image
+- In addition to a holistic deep CNN, trained region-based deep CNNs for different sections of the image
 - Combined holistic and region-based CNNs.
 - Pretrained models (like ImageNet) were fine-tuned.
 - Final accuracy achieved: **93%** (better than paper's 90%).
